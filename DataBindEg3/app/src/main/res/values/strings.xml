@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DataBindEg3</string>
+
+    <string-array name="names">
+        <item>Smith</item>
+        <item>Ramesh</item>
+        <item>James</item>
+        <item>Rahul</item>
+        <item>Meena</item>
+        <item>Rupal</item>
+    </string-array>
+
+    <string-array name="emails">
+        <item>smith@gmail.com</item>
+        <item>ramesh@gmail.com</item>
+        <item>james@gmail.com</item>
+        <item>rahul@gmail.com</item>
+        <item>meena@gmail.com</item>
+        <item>Rupal@gmail.com</item>
+    </string-array>
+
+
+</resources>
